@@ -8,7 +8,7 @@ Welcome to AZGV. By using our application, you agree to comply with and be bound
 - **Prohibited Activities**: You agree not to use AZGV for any illegal activities, to violate any laws, or to engage in activities that harm or disrupt the functionality of the application.
 
 ## Data Collection and Usage
-AZGV collects minimal data necessary to provide its functionality. For detailed information on how we handle user data, please refer to our [Privacy Policy](#).
+AZGV collects minimal data necessary to provide its functionality. For detailed information on how we handle user data, please refer to our [Privacy Policy](https://github.com/undercare/AZGV/blob/main/privacy-policy.md).
 
 ## Intellectual Property
 All content, features, and functionality of AZGV are owned by AZGV or its licensors and are protected by copyright, trademark, and other intellectual property laws.
